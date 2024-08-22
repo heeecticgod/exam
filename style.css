@@ -1,0 +1,211 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+body{
+background-image: url(https://st2.depositphotos.com/3837271/5507/i/450/depositphotos_55072853-stock-photo-time-to-travel-wooden-sign.jpg);   
+ background-position: center;
+    height: 750px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo {
+    font-size: 40px;
+    color: orange;
+    font-weight: 700;
+}
+.logo span {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+}
+.heading{
+    margin-top: 130px;
+    margin-left: 70px;
+    font-size: 80px;
+    color: white;
+}
+.heading .mainhead1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80px;
+    font-weight: 600;
+
+}
+.heading .mainhead2{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-size: 80px;
+    font-weight: 500;
+    font-style: normal;
+}
+.enquiry{
+    text-decoration: none;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 85px;
+    padding: 10px;
+}
+.head1{
+    margin-top: 20rem;
+    text-align: center;
+    color: black;
+}
+h2{
+    text-align: center;
+    margin-top: 40px;
+}
+.card-text{
+    color: red;
+}
+#more{
+    margin-top: 70px;
+    margin-left: 45%;
+    background-color: blue;
+    color: white;
+    border-radius: 10px 10px 10px 10px;
+    border-width: 3px;
+}
+.chead{
+    color: rgb(55, 255, 0);
+    font-size: 80px;
+    font-weight: 800;
+
+}
+.head2{
+    margin-top: 70px;
+}
+.north-ind div{
+    width: 250px;
+    height: 250px;
+    background-color: aqua;
+    margin: 10px; 
+  
+}
+.north-ind{
+    display: flex;
+    justify-content: center;
+}
+.north-ind img{
+    width: 250px;
+    height: 250px;
+    opacity: 1;
+}
+.north{
+    position: relative;
+}
+.north-ind img:hover{
+    opacity: 0.1;
+}
+.btn1{
+    position: absolute;
+    top: 80%;
+    left: 30%;
+    color: white;
+    background-color: red;
+    padding: 5px;
+    border-radius: 50px;
+}
+.head4{
+    position: absolute;
+    top: 40%;
+    left: 20%;
+    color: white;
+}
+.p1{
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    color: white;
+}
+.services div{
+    width: 200px;
+    height: 200px;
+    margin: 30px;
+    margin-bottom: 5px; 
+}
+.services{
+    display: flex;
+    justify-content: center;
+}
+.services img{
+    width: 200px;
+    height: 200px;
+}
+.head3{
+    margin-top: 30px;
+}
+.h5{
+    text-align: center;
+}
+.link{
+    text-decoration: none;
+    text-align: center;
+    margin-left: 60px;
+}
+.head7{
+    margin-top: 100px
+}
+.ftr1{
+    background-color: gray;
+    height: 450px;
+    margin-top: 50px;
+}
+.ftr1-content div{
+    width: 250px;
+    height: 200px;
+    margin: 30px;   
+}
+.ftr1-content{
+    display: flex;
+    justify-content: center;
+}
+.ftr1-content img{
+    width: 250px;
+    height: 200px;
+}
+.ftr2{
+    background-color: palegoldenrod;
+    height: 350px;
+}
+.ftr2 h3{
+    margin-top: 30px;
+    margin-left: 150px;
+}
+.ftr2 ul{
+    margin-top: 20px;
+    margin-left: 160px;
+}
+.ftr-link li{
+    list-style: none;
+    color: whitesmoke;
+   
+}
+.ftr-link a{
+    text-decoration: none;
+    line-height: 2.0;
+}
+.icons {
+    margin-top: 100px;
+    margin-left: 140px;
+    color: aliceblue;
+    display: flex;
+    gap: 10px;
+}
+.icons {
+    margin-top: 20px;
+    color: black;
+    display: flex;
+    gap: 30px;
+}
+.icons a {
+    color: black;
+}
+
+.ftr2img{
+    margin-top: 50px;
+    margin-left: 60px;
+}
